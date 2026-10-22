@@ -1,16 +1,6 @@
 {
- "v": 16,
- "rules": [
-  {
-   "id": "58073fad",
-   "find": "에 발송!",
-   "replace": "에 발송!!",
-   "page": "all",
-   "products": "",
-   "url": "",
-   "options": false
-  }
- ],
+ "v": 18,
+ "rules": [],
  "thumbs": [],
  "css": ""
 }
