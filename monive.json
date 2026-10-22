@@ -1,25 +1,6 @@
 {
- "v": 25,
- "rules": [
-  {
-   "id": "58073fad",
-   "find": "에 발송!",
-   "replace": "에 발송!!",
-   "page": "all",
-   "products": "",
-   "url": "",
-   "options": false
-  },
-  {
-   "id": "1a4e5ccf",
-   "find": "에 발송!!",
-   "replace": "에 발송!",
-   "page": "all",
-   "products": "",
-   "url": "",
-   "options": false
-  }
- ],
+ "v": 32,
+ "rules": [],
  "thumbs": [],
  "css": ""
 }
