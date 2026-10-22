@@ -1,6 +1,16 @@
 {
- "v": 27,
- "rules": [],
+ "v": 29,
+ "rules": [
+  {
+   "id": "f61dda64",
+   "find": "마법같은 얼굴 윤곽 변화",
+   "replace": "마법같은 얼굴 윤곽 변화!",
+   "page": "all",
+   "products": "",
+   "url": "",
+   "options": false
+  }
+ ],
  "thumbs": [],
  "css": ""
 }
