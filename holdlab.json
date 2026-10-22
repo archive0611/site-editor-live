@@ -1,16 +1,6 @@
 {
- "v": 21,
- "rules": [
-  {
-   "id": "92588999",
-   "find": "마법같은 얼굴 윤곽 변화",
-   "replace": "마법같은 얼굴 윤곽 변화!",
-   "page": "all",
-   "products": "",
-   "url": "",
-   "options": false
-  }
- ],
+ "v": 27,
+ "rules": [],
  "thumbs": [],
  "css": ""
 }
